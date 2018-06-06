@@ -1,4 +1,4 @@
-###### Application that provides info for the buses on Athens
+# Application that provides info for the buses on Athens
 
 
 The text files needed for the information are removed due to the size adn because they may contain information i am not allowed to share.
